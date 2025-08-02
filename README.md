@@ -105,6 +105,8 @@ blog application
 <img width="1920" height="1022" alt="edit" src="https://github.com/user-attachments/assets/b297dada-4c55-49d1-9cdb-17c85cf66d44" />
 <img width="1920" height="1012" alt="Favreties" src="https://github.com/user-attachments/assets/82e4252e-61cb-44a5-aba6-5188c82b1afc" />
 <img width="1920" height="917" alt="Myrecipe" src="https://github.com/user-attachments/assets/5df38de9-a1da-442e-ab6c-a6682db7efd4" />
+<img width="1918" height="1022" alt="review" src="https://github.com/user-attachments/assets/a40a3101-9d2c-4d00-ab85-1023f295da0c" />
+
 <img width="1920" height="987" alt="recipedetelis" src="https://github.com/user-attachments/assets/8313e1c3-4949-4384-886f-9f218196d9dc" />
 <img width="1920" height="1025" alt="aboutthe recipe" src="https://github.com/user-attachments/assets/c65df2e0-0e26-49ae-a187-322c99970185" />
 <img width="1920" height="1028" alt="Footer" src="https://github.com/user-attachments/assets/5a602158-2fbf-49c6-bf31-4dda04f727e8" />
