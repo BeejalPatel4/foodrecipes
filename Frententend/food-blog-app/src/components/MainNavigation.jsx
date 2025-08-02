@@ -5,6 +5,7 @@ import Navbar from './Navbar'
 import Carousel from '../Pages/Carousel'
 import FoodInfoPage from '../Pages/FoodInfoPage'
 import MoodExperiencePage from '../Pages/MoodExperiencePage'
+import AgentChat from '../Pages/AgentChat'
 
 
 
@@ -20,6 +21,7 @@ export default function MainNavigation() {
     
     <FoodInfoPage />
      <MoodExperiencePage />
+     <AgentChat />
     <Footer/>
    </>
   )
