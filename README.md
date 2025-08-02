@@ -93,10 +93,12 @@ node index.js
 
 blog application
 
-<img width="1920" height="1027" alt="Home" src="https://github.com/user-attachments/assets/f702a7e1-2a3d-4b06-ac17-944a0ef999db" /># foodrecipes Home page with moving carousel
+<img width="1916" height="977" alt="Home3" src="https://github.com/user-attachments/assets/cd238231-e3ec-46bd-ba4c-c2c8a069124a" />
+# foodrecipes Home page with moving carousel
 <img width="1911" height="1026" alt="loder" src="https://github.com/user-attachments/assets/cd4c7dc9-4f32-496c-a9fd-18adf762df26" /> Loder with animation
 
  <img width="1920" height="1021" alt="AddRecipe" src="https://github.com/user-attachments/assets/51661eac-9518-4e4a-b0d7-21a246ca52e5" />
+<img width="1920" height="1080" alt="Aegent" src="https://github.com/user-attachments/assets/6d46372f-9330-451d-b6f9-881d17240301" />
 
 <img width="1920" height="1028" alt="Allrecipe" src="https://github.com/user-attachments/assets/18615818-9703-44da-821f-f9552d66992a" />
 
