@@ -101,6 +101,7 @@ blog application
 <img width="1920" height="1080" alt="Aegent" src="https://github.com/user-attachments/assets/6d46372f-9330-451d-b6f9-881d17240301" />
 
 <img width="1920" height="1028" alt="Allrecipe" src="https://github.com/user-attachments/assets/18615818-9703-44da-821f-f9552d66992a" />
+<img width="1920" height="1022" alt="edit" src="https://github.com/user-attachments/assets/b297dada-4c55-49d1-9cdb-17c85cf66d44" />
 
 <img width="1920" height="1012" alt="Favreties" src="https://github.com/user-attachments/assets/82e4252e-61cb-44a5-aba6-5188c82b1afc" />
 <img width="1920" height="1028" alt="Footer" src="https://github.com/user-attachments/assets/5a602158-2fbf-49c6-bf31-4dda04f727e8" />
