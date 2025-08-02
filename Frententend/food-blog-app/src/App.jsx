@@ -9,8 +9,9 @@ import AddReview from './Pages/Addreview'
 // import { Editepage } from './Pages/Editepage'
 import EditRecipe from './Pages/EditRecipe'
 import RecipeDetails from './Pages/RecipeDetails'
-// import AddReview from './Pages/Addreview'
-// import Carousel from './Pages/Carousel'
+import AgentChat from './Pages/AgentChat'
+
+import AgentChatt from './components/AgentChat'
 
 const getAllRecipe=async()=>{
   let allRecipes=[]
@@ -54,6 +55,7 @@ const router =createBrowserRouter([
   {path:"/myRecipe",element:<Home/>,loader:getMyRecipe},
   {path:"/favRecipe",element:<Home/>,loader:getFavRecipes},
   {path:"/addrecipe",element:<AddFoodRecipe/>},
+   { path: "/agent", element: <AgentChat /> },
  {path: "/Addreview", element: <AddReview /> },
    {path: "/editRecipe/:id", element: <EditRecipe /> },
    {path:"/recipe/:id",element:<RecipeDetails/>,loader:getRecipe}
@@ -69,6 +71,7 @@ export default function App() {
     <>
     
        <RouterProvider router={router}></RouterProvider>
+        <AgentChatt /> 
     </>
   )
 }
