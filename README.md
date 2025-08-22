@@ -90,7 +90,170 @@ PORT=your-preferred-port
 4.Start the server
 bash
 node index.js
-
+5.files
+├── .gitattributes
+├── .github
+    └── workflows
+    │   └── static.yml
+├── Backend
+    ├── Controllre
+    │   ├── recipe.js
+    │   ├── review.js
+    │   └── user.js
+    ├── Public
+    │   ├── images
+    │   │   ├── 1751918640233-recipe1.jpg
+    │   │   ├── 1752123854193-images.jpg
+    │   │   ├── 1752354499979-recipe1.jpg
+    │   │   ├── 1752379506310-recipe1.jpg
+    │   │   ├── 1752609525813-recipe1.jpg
+    │   │   ├── 1752609902731-recipe1.jpg
+    │   │   ├── 1752634608715-recipe1.jpg
+    │   │   ├── 1752635078759-recipe1.jpg
+    │   │   ├── 1752876414058-logo.jpg
+    │   │   ├── 1752877355023-logoicon.png
+    │   │   ├── 1752878421312-logo.jpg
+    │   │   ├── 1752882320828-loginpage.png
+    │   │   ├── 1752883263474-cnava.jpg
+    │   │   ├── 1752883394720-cnava.jpg
+    │   │   ├── 1752883684893-cnava.jpg
+    │   │   ├── 1752883762770-cnava.jpg
+    │   │   ├── 1752884044233-cnava.jpg
+    │   │   ├── 1752884109630-logo1.png
+    │   │   ├── 1752950166525-th.jpg
+    │   │   ├── 1752950667971-spggetti.jpg
+    │   │   ├── 1752951166014-spggetti.jpg
+    │   │   ├── 1752951171515-spggetti.jpg
+    │   │   ├── 1752951205903-spggetti.jpg
+    │   │   ├── 1752951212949-spggetti.jpg
+    │   │   ├── 1752951227132-spggetti.jpg
+    │   │   ├── 1752951293634-spggetti.jpg
+    │   │   ├── 1752951549367-spggetti.jpg
+    │   │   ├── 1752951550936-spggetti.jpg
+    │   │   ├── 1752951551439-spggetti.jpg
+    │   │   ├── 1752951551660-spggetti.jpg
+    │   │   ├── 1752951576675-spggetti.jpg
+    │   │   ├── 1752951601676-spggetti.jpg
+    │   │   ├── 1752951604095-spggetti.jpg
+    │   │   ├── 1752951606271-spggetti.jpg
+    │   │   ├── 1752951658181-spggetti.jpg
+    │   │   ├── 1752951771972-recipe1.jpg
+    │   │   ├── 1752951873615-spggetti.jpg
+    │   │   ├── 1752951951704-logo.jpg
+    │   │   ├── 1752952008237-spggetti.jpg
+    │   │   ├── 1752952654670-download.jpg
+    │   │   ├── 1752952802154-spggetti.jpg
+    │   │   ├── 1752953037227-foodRecipe.jpg
+    │   │   ├── 1752953265540-th.jpg
+    │   │   ├── 1752953735448-Stir-Fry-with-Peanut-Sauce.jpg
+    │   │   ├── 1752964998858-th (1).jpg
+    │   │   ├── 1752965159169-th (1).jpg
+    │   │   ├── 1752985676969-th.jpg
+    │   │   ├── 1753127238645-th (1).jpg
+    │   │   ├── 1753128068130-th (1).jpg
+    │   │   ├── 1753128217544-th (1).jpg
+    │   │   ├── 1753128310964-th (1).jpg
+    │   │   ├── 1753128314872-th (1).jpg
+    │   │   ├── 1753128315766-th (1).jpg
+    │   │   ├── 1753128322462-th (1).jpg
+    │   │   ├── 1753128325625-th (1).jpg
+    │   │   ├── 1753128623025-th (1).jpg
+    │   │   ├── 1753141524643-th (1).jpg
+    │   │   ├── 1753141548004-th (1).jpg
+    │   │   ├── 1753143364480-th (1).jpg
+    │   │   ├── 1753217380149-th (1).jpg
+    │   │   ├── 1753217513663-th.jpg
+    │   │   ├── 1753218637227-th.jpg
+    │   │   ├── 1753220115115-logo1.png
+    │   │   ├── 1753246631625-th (1).jpg
+    │   │   ├── 1753247145236-th.jpg
+    │   │   ├── 1753247652522-th (1).jpg
+    │   │   ├── 1753247977609-th (1).jpg
+    │   │   ├── 1753248093354-th (1).jpg
+    │   │   └── 1753248225136-th (1).jpg
+    │   └── reviewImages
+    │   │   ├── 1752610511012-recipe1.jpg
+    │   │   ├── 1752611988239-recipe1.jpg
+    │   │   ├── 1752634313815-recipe1.jpg
+    │   │   ├── 1752634460423-recipe1.jpg
+    │   │   └── 1752634999900-recipe1.jpg
+    ├── config
+    │   └── connectionDb.js
+    ├── middlwere
+    │   └── auth.js
+    ├── models
+    │   ├── recipe.js
+    │   ├── review.js
+    │   └── user.js
+    ├── package-lock.json
+    ├── package.json
+    ├── routes
+    │   ├── recipe.js
+    │   ├── review.js
+    │   └── user.js
+    └── server.js
+├── Frententend
+    └── food-blog-app
+    │   ├── .gitignore
+    │   ├── README.md
+    │   ├── eslint.config.js
+    │   ├── index.html
+    │   ├── package-lock.json
+    │   ├── package.json
+    │   ├── public
+    │       └── vite.svg
+    │   ├── src
+    │       ├── App.css
+    │       ├── App.jsx
+    │       ├── Pages
+    │       │   ├── AddFoodRecipe.jsx
+    │       │   ├── Addreview.jsx
+    │       │   ├── AgentChat.jsx
+    │       │   ├── Carousel.jsx
+    │       │   ├── EditRecipe.jsx
+    │       │   ├── FoodInfoPage.jsx
+    │       │   ├── Home.jsx
+    │       │   ├── MoodExperiencePage.jsx
+    │       │   └── RecipeDetails.jsx
+    │       ├── Test
+    │       │   ├── FoodInfoPage.test.jsx
+    │       │   └── Home.test.jsx
+    │       ├── assets
+    │       │   ├── 8835293.jpg
+    │       │   ├── bg-login.png
+    │       │   ├── foodRecipe.jpg
+    │       │   ├── images
+    │       │   │   ├── 1.jpg
+    │       │   │   ├── 10.jpg
+    │       │   │   ├── 11.jpg
+    │       │   │   ├── 12.jpg
+    │       │   │   ├── 2.jpg
+    │       │   │   ├── 3.jpg
+    │       │   │   ├── 4.jpg
+    │       │   │   ├── 5.jpg
+    │       │   │   ├── 6.jpg
+    │       │   │   ├── 7.jpg
+    │       │   │   ├── 8.jpg
+    │       │   │   ├── 9.jpg
+    │       │   │   ├── loginpage.png
+    │       │   │   ├── logo.jpg
+    │       │   │   ├── logo1.png
+    │       │   │   └── logoicon.png
+    │       │   ├── recipe.mp4
+    │       │   ├── recipe1.jpg
+    │       │   └── resipe.mp4
+    │       ├── components
+    │       │   ├── AgentChat.jsx
+    │       │   ├── Footer.jsx
+    │       │   ├── InputForm.jsx
+    │       │   ├── MainNavigation.jsx
+    │       │   ├── Modal.jsx
+    │       │   ├── Navbar.jsx
+    │       │   └── RecipeItems.jsx
+    │       ├── index.css
+    │       └── main.jsx
+    │   └── vite.config.js
+└── README.md
 blog application
 
 <img width="1916" height="977" alt="Home3" src="https://github.com/user-attachments/assets/cd238231-e3ec-46bd-ba4c-c2c8a069124a" />
